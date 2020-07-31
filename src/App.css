@@ -1,0 +1,70 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.spacer {
+  flex: 1;
+}
+
+.toolbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #1976d2;
+  color: white;
+  font-weight: 600;
+}
+
+.toolbar img {
+  margin: 0 16px;
+}
+
+p {
+  font-family: Lato;
+}
+
+#bodyContainer {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.arrayElement {
+  padding-top: 7px;
+  font-family: sans-serif;
+  font-weight: 700;
+  display: inline-block;
+  height: 264px;
+  width: 30px;
+  margin-left: 4px;
+  background-color: rgba(66, 134, 244, 0.8);
+  font-size: 10px;
+}
+
+.green{
+  background-color: green;
+}
+
+.orange{
+  background-color: orange;
+}
+
+.res{
+  background-color: rgb(0, 255, 255);
+}
+.normal{
+  background-color: rgba(66, 134, 244, 0.8);
+}
+
+
