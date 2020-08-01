@@ -1,5 +1,6 @@
 <a href="https://sorting-algos-visualizer-8022c.web.app">Check website</a> 
-Algos:
+<br/>
+<b>Algos:</b>
 <ul>
   <li>Quicksort</li>
   <li>Merge sort</li>
